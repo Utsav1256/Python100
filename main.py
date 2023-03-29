@@ -6,3 +6,6 @@ print("Hello" + " " + "Utsav")
 
 #input function
 print("Hello " + input("What is your name?") + "!")
+
+#Write a program that prints the number of characters in a user's name. 
+print(len(input("What is your name? ")))
